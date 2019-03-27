@@ -1,1 +1,1 @@
-# docs
+# Documentation for our project
